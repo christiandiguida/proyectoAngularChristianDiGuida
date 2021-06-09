@@ -5954,7 +5954,7 @@
       "outputPath": "/Users/christiandiguida/Desktop/GitChris/proyectoAngularChristianDiGuida/TechnicalTest - Angular - Christian Di Guida/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/christiandiguida/.nuget/NuGet/NuGet.Config"
+        "/Users/christiandiguida/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
