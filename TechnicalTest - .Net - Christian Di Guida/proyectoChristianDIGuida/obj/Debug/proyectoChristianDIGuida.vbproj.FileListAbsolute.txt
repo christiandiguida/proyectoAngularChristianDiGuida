@@ -1,0 +1,32 @@
+C:/Users/Christian Di Guida/Desktop/chris/proyectoChristianDIGuida/bin/Debug/protectoChristianDIGuida.exe.config
+C:/Users/Christian Di Guida/Desktop/chris/proyectoChristianDIGuida/bin/Debug/protectoChristianDIGuida.exe
+C:/Users/Christian Di Guida/Desktop/chris/proyectoChristianDIGuida/bin/Debug/protectoChristianDIGuida.pdb
+C:/Users/Christian Di Guida/Desktop/chris/proyectoChristianDIGuida/bin/Debug/protectoChristianDIGuida.xml
+C:/Users/Christian Di Guida/Desktop/chris/proyectoChristianDIGuida/obj/Debug/proyectoChristianDIGuida.vbproj.AssemblyReference.cache
+C:/Users/Christian Di Guida/Desktop/chris/proyectoChristianDIGuida/obj/Debug/protectoChristianDIGuida.Form1.resources
+C:/Users/Christian Di Guida/Desktop/chris/proyectoChristianDIGuida/obj/Debug/protectoChristianDIGuida.Resources.resources
+C:/Users/Christian Di Guida/Desktop/chris/proyectoChristianDIGuida/obj/Debug/proyectoChristianDIGuida.vbproj.GenerateResource.cache
+C:/Users/Christian Di Guida/Desktop/chris/proyectoChristianDIGuida/obj/Debug/proyectoChristianDIGuida.vbproj.CoreCompileInputs.cache
+C:/Users/Christian Di Guida/Desktop/chris/proyectoChristianDIGuida/obj/Debug/protectoChristianDIGuida.exe
+C:/Users/Christian Di Guida/Desktop/chris/proyectoChristianDIGuida/obj/Debug/protectoChristianDIGuida.xml
+C:/Users/Christian Di Guida/Desktop/chris/proyectoChristianDIGuida/obj/Debug/protectoChristianDIGuida.pdb
+/Volumes/CHRISTIAN/pruebaDBM  Christian Di Guida/proyectoChristianDIGuida/obj/Debug/proyectoChristianDIGuida.vbprojAssemblyReference.cache
+/Volumes/CHRISTIAN/pruebaDBM  Christian Di Guida/proyectoChristianDIGuida/obj/Debug/protectoChristianDIGuida.Form1.resources
+/Volumes/CHRISTIAN/pruebaDBM  Christian Di Guida/proyectoChristianDIGuida/obj/Debug/protectoChristianDIGuida.Resources.resources
+/Volumes/CHRISTIAN/pruebaDBM  Christian Di Guida/proyectoChristianDIGuida/obj/Debug/proyectoChristianDIGuida.vbproj.GenerateResource.cache
+/Volumes/CHRISTIAN/pruebaDBM  Christian Di Guida/proyectoChristianDIGuida/obj/Debug/proyectoChristianDIGuida.vbproj.CoreCompileInputs.cache
+/Volumes/CHRISTIAN/pruebaDBM  Christian Di Guida/proyectoChristianDIGuida/obj/Debug/protectoChristianDIGuida.exe
+/Volumes/CHRISTIAN/pruebaDBM  Christian Di Guida/proyectoChristianDIGuida/obj/Debug/protectoChristianDIGuida.xml
+/Volumes/CHRISTIAN/pruebaDBM  Christian Di Guida/proyectoChristianDIGuida/obj/Debug/protectoChristianDIGuida.pdb
+E:\pruebaDBM  Christian Di Guida\proyectoChristianDIGuida\bin\Debug\protectoChristianDIGuida.exe.config
+E:\pruebaDBM  Christian Di Guida\proyectoChristianDIGuida\bin\Debug\protectoChristianDIGuida.exe
+E:\pruebaDBM  Christian Di Guida\proyectoChristianDIGuida\bin\Debug\protectoChristianDIGuida.pdb
+E:\pruebaDBM  Christian Di Guida\proyectoChristianDIGuida\bin\Debug\protectoChristianDIGuida.xml
+E:\pruebaDBM  Christian Di Guida\proyectoChristianDIGuida\obj\Debug\proyectoChristianDIGuida.vbproj.AssemblyReference.cache
+E:\pruebaDBM  Christian Di Guida\proyectoChristianDIGuida\obj\Debug\protectoChristianDIGuida.Form1.resources
+E:\pruebaDBM  Christian Di Guida\proyectoChristianDIGuida\obj\Debug\protectoChristianDIGuida.Resources.resources
+E:\pruebaDBM  Christian Di Guida\proyectoChristianDIGuida\obj\Debug\proyectoChristianDIGuida.vbproj.GenerateResource.cache
+E:\pruebaDBM  Christian Di Guida\proyectoChristianDIGuida\obj\Debug\proyectoChristianDIGuida.vbproj.CoreCompileInputs.cache
+E:\pruebaDBM  Christian Di Guida\proyectoChristianDIGuida\obj\Debug\protectoChristianDIGuida.exe
+E:\pruebaDBM  Christian Di Guida\proyectoChristianDIGuida\obj\Debug\protectoChristianDIGuida.xml
+E:\pruebaDBM  Christian Di Guida\proyectoChristianDIGuida\obj\Debug\protectoChristianDIGuida.pdb

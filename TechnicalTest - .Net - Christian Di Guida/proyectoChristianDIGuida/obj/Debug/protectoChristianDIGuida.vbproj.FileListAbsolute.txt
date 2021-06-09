@@ -1,0 +1,12 @@
+C:\Users\Christian Di Guida\Desktop\chris\protectoChristianDIGuida\bin\Debug\protectoChristianDIGuida.exe.config
+C:\Users\Christian Di Guida\Desktop\chris\protectoChristianDIGuida\bin\Debug\protectoChristianDIGuida.exe
+C:\Users\Christian Di Guida\Desktop\chris\protectoChristianDIGuida\bin\Debug\protectoChristianDIGuida.pdb
+C:\Users\Christian Di Guida\Desktop\chris\protectoChristianDIGuida\bin\Debug\protectoChristianDIGuida.xml
+C:\Users\Christian Di Guida\Desktop\chris\protectoChristianDIGuida\obj\Debug\protectoChristianDIGuida.vbproj.AssemblyReference.cache
+C:\Users\Christian Di Guida\Desktop\chris\protectoChristianDIGuida\obj\Debug\protectoChristianDIGuida.Form1.resources
+C:\Users\Christian Di Guida\Desktop\chris\protectoChristianDIGuida\obj\Debug\protectoChristianDIGuida.Resources.resources
+C:\Users\Christian Di Guida\Desktop\chris\protectoChristianDIGuida\obj\Debug\protectoChristianDIGuida.vbproj.GenerateResource.cache
+C:\Users\Christian Di Guida\Desktop\chris\protectoChristianDIGuida\obj\Debug\protectoChristianDIGuida.vbproj.CoreCompileInputs.cache
+C:\Users\Christian Di Guida\Desktop\chris\protectoChristianDIGuida\obj\Debug\protectoChristianDIGuida.exe
+C:\Users\Christian Di Guida\Desktop\chris\protectoChristianDIGuida\obj\Debug\protectoChristianDIGuida.xml
+C:\Users\Christian Di Guida\Desktop\chris\protectoChristianDIGuida\obj\Debug\protectoChristianDIGuida.pdb

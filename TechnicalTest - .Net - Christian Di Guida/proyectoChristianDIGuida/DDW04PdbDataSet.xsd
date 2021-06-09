@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DDW04PdbDataSet" targetNamespace="http://tempuri.org/DDW04PdbDataSet.xsd" xmlns:mstns="http://tempuri.org/DDW04PdbDataSet.xsd" xmlns="http://tempuri.org/DDW04PdbDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="DDW04PdbConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DDW04PdbConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.protectoChristianDIGuida.My.MySettings.GlobalReference.Default.DDW04PdbConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ALOJAMIENTOTableAdapter" GeneratorDataComponentClassName="ALOJAMIENTOTableAdapter" Name="ALOJAMIENTO" UserDataComponentName="ALOJAMIENTOTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DDW04PdbConnectionString (MySettings)" DbObjectName="DDW04Pdb.dbo.ALOJAMIENTO" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT CodAlojamiento, Alojamiento, Direccion, Observaciones FROM dbo.ALOJAMIENTO</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="CodAlojamiento" DataSetColumn="CodAlojamiento" />
+              <Mapping SourceColumn="Alojamiento" DataSetColumn="Alojamiento" />
+              <Mapping SourceColumn="Direccion" DataSetColumn="Direccion" />
+              <Mapping SourceColumn="Observaciones" DataSetColumn="Observaciones" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DDW04PdbDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DDW04PdbDataSet" msprop:Generator_UserDSName="DDW04PdbDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ALOJAMIENTO" msprop:Generator_TableClassName="ALOJAMIENTODataTable" msprop:Generator_TableVarName="tableALOJAMIENTO" msprop:Generator_TablePropName="ALOJAMIENTO" msprop:Generator_RowDeletingName="ALOJAMIENTORowDeleting" msprop:Generator_RowChangingName="ALOJAMIENTORowChanging" msprop:Generator_RowEvHandlerName="ALOJAMIENTORowChangeEventHandler" msprop:Generator_RowDeletedName="ALOJAMIENTORowDeleted" msprop:Generator_UserTableName="ALOJAMIENTO" msprop:Generator_RowChangedName="ALOJAMIENTORowChanged" msprop:Generator_RowEvArgName="ALOJAMIENTORowChangeEvent" msprop:Generator_RowClassName="ALOJAMIENTORow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodAlojamiento" msprop:Generator_ColumnVarNameInTable="columnCodAlojamiento" msprop:Generator_ColumnPropNameInRow="CodAlojamiento" msprop:Generator_ColumnPropNameInTable="CodAlojamientoColumn" msprop:Generator_UserColumnName="CodAlojamiento" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Alojamiento" msprop:Generator_ColumnVarNameInTable="columnAlojamiento" msprop:Generator_ColumnPropNameInRow="Alojamiento" msprop:Generator_ColumnPropNameInTable="AlojamientoColumn" msprop:Generator_UserColumnName="Alojamiento" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Direccion" msprop:Generator_ColumnVarNameInTable="columnDireccion" msprop:Generator_ColumnPropNameInRow="Direccion" msprop:Generator_ColumnPropNameInTable="DireccionColumn" msprop:Generator_UserColumnName="Direccion" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Observaciones" msprop:Generator_ColumnVarNameInTable="columnObservaciones" msprop:Generator_ColumnPropNameInRow="Observaciones" msprop:Generator_ColumnPropNameInTable="ObservacionesColumn" msprop:Generator_UserColumnName="Observaciones" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4000" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
